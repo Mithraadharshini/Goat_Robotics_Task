@@ -14,6 +14,8 @@ Collision Avoidance: The robot ensures safe distances from obstacles and recalcu
 pip install pygame
 
 **Run the Simulation:** <br>
-python3 GridRobotics.py
-python3 RoboticMovement.py
+python3 GridRobotics.py <br>
+python3 RoboticMovement.py<br>
 
+
+Link to the Recording File:https://drive.google.com/file/d/16pUz6B_vVXAlDzb4osfHPwvmVTeT3dV3/view?usp=sharing
